@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christos Zacharioudakis</h1>
 <h3 align="center">An Electrical and Computer Engineer from Greece</h3>
 
-- 🔭 I’m currently working on [HealTasker](https://github.com/Chrz95/HealTasker)
+- 🔭 I’m currently working on [HealTasker](https://github.com/Chrz95/_HealTasker)
 
 - 🌱 I’m currently learning **Flutter**
 
