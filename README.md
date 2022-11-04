@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HealTasker](https://github.com/Chrz95/_HealTasker)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chrz95](https://github.com/Chrz95)
 
