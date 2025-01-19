@@ -2,7 +2,7 @@
 <h3 align="center">An Electrical and Computer Engineer from Greece</h3>
 
 - 🔭 I’m currently working at Eurobank as a Front-End Developer.
-- 
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Chrz95](https://github.com/Chrz95)
 
 - 📫 How to reach me **chrz1995@gmail.com**
